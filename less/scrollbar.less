@@ -1,0 +1,29 @@
+@import "variables.less";
+
+/* -weikit-scrollbar 
+ *@description 
+ * @scroll_width: scrollbar width
+ * @scroll_height: scrollbar height
+ * @b-radius: scrollbar border-radius
+*/
+.smart_scrollbar(@scroll_width,@scroll_height,@b-radius){
+	::-webkit-scrollbar{
+		width: @scroll_width;
+		height:@scroll_height;		
+	}
+	
+	::-webkit-scrollbar-thumb{
+		background-color:rgba(50,50,50,.25);
+		border:2px solid transparent;
+		border-radius:@b-radius;
+		background-clip:padding-box;
+	}
+	
+	::-webkit-scrollbar-button{
+		background-color:rgba(50,50,50,.05);
+	}
+	::-webkit-scrollbar-track{
+		background-color:rgba(50,50,50,.05);
+	}
+		
+}

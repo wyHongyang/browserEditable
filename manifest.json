@@ -1,0 +1,21 @@
+{
+	"manifest_version" : 1,
+	"name" : "browserEditable",
+	"description" : "This extension for browserEditable",
+	"version" : "1.0.1",
+	"author" : "Yang Hong | hzhongyang@corp.netease.com",
+	"permissions" : ["tabs","storage"],
+	"content_scripts": [
+	    {
+	      /*"matches": ["http://activity.vip.163.com/activity/newLogin/login_chrome.html"],
+	      "js": ["js/lib/jquery-1.11.3.min.js","js/content.js"]*/
+	    }
+  	],
+    "browser_action" : {
+		"default_icon" : "imgs/icons.png",
+		"default_popup" : "views/main.html",
+		"default_title":  "BrowserEditable"
+	},
+	"options_page" : "views/option.html"
+	/*"content_security_policy" : "script-src 'self' https://dl.dropboxusercontent.com/; object-src 'self'"*/
+}
