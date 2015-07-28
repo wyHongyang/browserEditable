@@ -10,7 +10,7 @@ module.exports = function(grunt){
 			compileMain : {
 				options : {},
 				files : {
-					
+					'css/main.css':'less/main.less'
 				}
 			},
 			minify : {
@@ -26,7 +26,8 @@ module.exports = function(grunt){
 				files : {
 					'css/lib/bootstrap-theme.min.css':'css/lib/bootstrap-theme.css',
 					'css/lib/bootstrap.min.css':'css/lib/bootstrap.css',
-					'css/lib/font-awesome.min.css':'css/lib/font-awesome.css'
+					'css/lib/font-awesome.min.css':'css/lib/font-awesome.css',
+					'css/main.min.css':'css/main.css'
 				}
 			}
 		},

@@ -1,0 +1,30 @@
+{
+	"data":[{
+		"type":"base",
+		"content":"data%3Atext/html%2C%3Chtml%20contenteditable%3Dtrue%3E"
+	},
+	{
+		"type":"java",
+		"content":"data%3Atext/html%2C%20%3Cstyle%20type%3D%22text/css%22%3Ebody%7Bbackground-color%3A%23CCE8CF%3B%20%7D.e%7Bposition%3Aabsolute%3Btop%3A0%3Bright%3A0%3Bbottom%3A0%3Bleft%3A0%3B%7D%3C/style%3E%3Cdiv%20class%3D%22e%22%20id%3D%22editor%22%3E%3C/div%3E%3Cscript%20src%3D%22http%3A//d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js%22%20type%3D%22text/javascript%22%20charset%3D%22utf-8%22%3E%3C/script%3E%3Cscript%3Evar%20e%3Dace.edit%28%22editor%22%29%3Be.setTheme%28%22ace/theme/eclipse%22%29%3Be.getSession%28%29.setMode%28%22ace/mode/java%22%29%3B%3C/script%3E"
+	},
+	{
+		"type":"javascript",
+		"content":"data%3Atext/html%2C%20%3Cstyle%20type%3D%22text/css%22%3Ebody%7Bbackground-color%3A%23CCE8CF%3B%20%7D.e%7Bposition%3Aabsolute%3Btop%3A0%3Bright%3A0%3Bbottom%3A0%3Bleft%3A0%3B%7D%3C/style%3E%3Cdiv%20class%3D%22e%22%20id%3D%22editor%22%3E%3C/div%3E%3Cscript%20src%3D%22http%3A//d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js%22%20type%3D%22text/javascript%22%20charset%3D%22utf-8%22%3E%3C/script%3E%3Cscript%3Evar%20e%3Dace.edit%28%22editor%22%29%3Be.setTheme%28%22ace/theme/eclipse%22%29%3Be.getSession%28%29.setMode%28%22ace/mode/javascript%22%29%3B%3C/script%3E"
+	},
+	{
+		"type":"css",
+		"content":"data%3Atext/html%2C%20%3Cstyle%20type%3D%22text/css%22%3Ebody%7Bbackground-color%3A%23CCE8CF%3B%20%7D.e%7Bposition%3Aabsolute%3Btop%3A0%3Bright%3A0%3Bbottom%3A0%3Bleft%3A0%3B%7D%3C/style%3E%3Cdiv%20class%3D%22e%22%20id%3D%22editor%22%3E%3C/div%3E%3Cscript%20src%3D%22http%3A//d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js%22%20type%3D%22text/javascript%22%20charset%3D%22utf-8%22%3E%3C/script%3E%3Cscript%3Evar%20e%3Dace.edit%28%22editor%22%29%3Be.setTheme%28%22ace/theme/eclipse%22%29%3Be.getSession%28%29.setMode%28%22ace/mode/css%22%29%3B%3C/script%3E"
+	},
+	{
+		"type":"html",
+		"content":"data%3Atext/html%2C%20%3Cstyle%20type%3D%22text/css%22%3Ebody%7Bbackground-color%3A%23CCE8CF%3B%20%7D.e%7Bposition%3Aabsolute%3Btop%3A0%3Bright%3A0%3Bbottom%3A0%3Bleft%3A0%3B%7D%3C/style%3E%3Cdiv%20class%3D%22e%22%20id%3D%22editor%22%3E%3C/div%3E%3Cscript%20src%3D%22http%3A//d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js%22%20type%3D%22text/javascript%22%20charset%3D%22utf-8%22%3E%3C/script%3E%3Cscript%3Evar%20e%3Dace.edit%28%22editor%22%29%3Be.setTheme%28%22ace/theme/eclipse%22%29%3Be.getSession%28%29.setMode%28%22ace/mode/html%22%29%3B%3C/script%3E"
+	},
+	{
+		"type":"less/scss",
+		"content":"data%3Atext/html%2C%20%3Cstyle%20type%3D%22text/css%22%3Ebody%7Bbackground-color%3A%23CCE8CF%3B%20%7D.e%7Bposition%3Aabsolute%3Btop%3A0%3Bright%3A0%3Bbottom%3A0%3Bleft%3A0%3B%7D%3C/style%3E%3Cdiv%20class%3D%22e%22%20id%3D%22editor%22%3E%3C/div%3E%3Cscript%20src%3D%22http%3A//d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js%22%20type%3D%22text/javascript%22%20charset%3D%22utf-8%22%3E%3C/script%3E%3Cscript%3Evar%20e%3Dace.edit%28%22editor%22%29%3Be.setTheme%28%22ace/theme/eclipse%22%29%3Be.getSession%28%29.setMode%28%22ace/mode/less%22%29%3B%3C/script%3E"
+	},
+	{
+		"type":"sh",
+		"content":"data%3Atext/html%2C%20%3Cstyle%20type%3D%22text/css%22%3Ebody%7Bbackground-color%3A%23CCE8CF%3B%20%7D.e%7Bposition%3Aabsolute%3Btop%3A0%3Bright%3A0%3Bbottom%3A0%3Bleft%3A0%3B%7D%3C/style%3E%3Cdiv%20class%3D%22e%22%20id%3D%22editor%22%3E%3C/div%3E%3Cscript%20src%3D%22http%3A//d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js%22%20type%3D%22text/javascript%22%20charset%3D%22utf-8%22%3E%3C/script%3E%3Cscript%3Evar%20e%3Dace.edit%28%22editor%22%29%3Be.setTheme%28%22ace/theme/eclipse%22%29%3Be.getSession%28%29.setMode%28%22ace/mode/sh%22%29%3B%3C/script%3E"
+	}]
+}

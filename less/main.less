@@ -1,0 +1,40 @@
+@import "scrollbar.less";
+@import "text-overflow.less";
+@import "variables.less";
+html,body{
+	margin:0;
+	padding:0;
+}
+.smart_scrollbar(@margin-base + 2,@margin-base + 2,@margin-base + 2);
+.g-bd{
+	width:320px;
+	min-width:320px;
+	height:250px;
+	min-height:250px;
+	padding:@padding-base-large + 10;
+	.m-ipt{
+		margin-top:10%;
+	}
+	.m-create{
+		margin-top:10px;
+		input[type="button"]{
+			font:bold 12px/15px Microsoft Yahei;
+			margin-bottom:@margin-base-large;
+		}
+	}
+	.m-list{
+		display: block;
+		max-height: 150px;
+		overflow-y: auto;
+		margin:20px auto;
+	}
+	.u-radio{
+		margin:@margin-base-small + 1  auto;
+		lable{
+			margin-bottom:0;
+		}
+		span{
+			padding-left:@margin-base + 2;
+		}	
+	}
+}
