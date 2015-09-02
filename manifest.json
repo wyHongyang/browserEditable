@@ -3,7 +3,7 @@
 	"name" : "browserEditable",
 	"description" : "This extension for browserEditable",
 	"version" : "1.0.1",
-	"author" : "Yang Hong | hzhongyang@corp.netease.com",
+	"author" : "Yang Hong ",
 	"permissions" : ["tabs","storage"],
     "browser_action" : {
 		"default_icon" : "imgs/icons.png",
